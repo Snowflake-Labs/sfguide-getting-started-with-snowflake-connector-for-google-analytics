@@ -1,6 +1,6 @@
 # sfguide-getting-started-with-snowflake-connector-for-google-analytics
 
-# Getting STarted with the Snowflake Connector for Google Analytics Raw Data
+# Getting Started with the Snowflake Connector for Google Analytics Raw Data
 
 ## Overview
 
