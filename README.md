@@ -1,4 +1,4 @@
-# Getting Started with the Snowflake Connector for Google Analytics Raw Data
+# Getting Started with the Snowflake Connector for Google Analytics
 
 ## Overview
 
